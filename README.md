@@ -140,6 +140,6 @@ python -m utils.insert_sample_data
 
 ## **🔧 Contributors**  
 👨‍💻 **KRISHNA BHAGAVAN** – Developer  
-👨‍💻 **NAREEN** – Contributor   
+👨‍💻 **NAREEN** – Developer  
 
 ---
